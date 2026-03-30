@@ -2,9 +2,9 @@ name: Java demo job
 
 on:
   push:
-    branches: [ "sharanyam797-patch-1" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "sharanyam797-patch-1" ]
+    branches: [ "main" ]
 
 jobs:
   build:
